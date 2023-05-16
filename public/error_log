@@ -1,0 +1,362 @@
+[05-Apr-2023 10:28:07 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:28:16 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:28:28 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:28:33 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:29:35 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:29:45 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:29:52 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:31:00 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:31:03 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:31:04 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:31:05 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:31:05 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:31:05 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:41:45 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:42:37 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:42:44 Asia/Tehran] PHP Fatal error:  Trait method Carbon\Traits\Creator::IsLeapYear has not been applied as Carbon\Traits\Date::IsLeapYear, because of collision with Carbon\Traits\Comparison::isLeapYear in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 10:43:24 Asia/Tehran] PHP Fatal error:  During class fetch: Uncaught ParseError: Unterminated comment starting line 933 in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php:933
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home3/ontnehbb...')
+#1 /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php(527): Composer\Autoload\ClassLoader->loadClass('Carbon\\Traits\\C...')
+#2 /home3/ontnehbb/public_html/vendor/composer/ClassLoader.php(571): include('/home3/ontnehbb...')
+#3 /home3/ontnehbb/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home3/ontnehbb...')
+#4 /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Carbon.php(510): Composer\Autoload\ClassLoader->loadClass('Carbon\\Traits\\D...')
+#5 /home3/ontnehbb/public_html/vendor/composer/ClassLoader.php(571): include('/home3/ontnehbb...')
+#6 /home3/ontnehbb/public_html/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home3/ontnehbb...')
+#7 /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php(49): Composer\Autoload\ClassLoader->loadClass('Carbon\\Carbon')
+#8 /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php(29): Carbon\Laravel\ServiceProvider->updateLocale()
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Carbon\Laravel\ServiceProvider->boot()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\Container\Util::unwrapIfClosure(Object(Closure))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(37): Illuminate\Container\BoundMethod::callBoundMethod(Object(Illuminate\Foundation\Application), Array, Object(Closure))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(651): Illuminate\Container\BoundMethod::call(Object(Illuminate\Foundation\Application), Array, Array, NULL)
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(928): Illuminate\Container\Container->call(Array)
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): Illuminate\Foundation\Application->bootProvider(Object(Carbon\Laravel\ServiceProvider))
+#16 [internal function]: Illuminate\Foundation\Application->Illuminate\Foundation\{closure}(Object(Carbon\Laravel\ServiceProvider), 16)
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): array_walk(Array, Object(Closure))
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\Foundation\Application->boot()
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(239): Illuminate\Foundation\Bootstrap\BootProviders->bootstrap(Object(Illuminate\Foundation\Application))
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(153): Illuminate\Foundation\Application->bootstrapWith(Array)
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(137): Illuminate\Foundation\Http\Kernel->bootstrap()
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(111): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#23 /home3/ontnehbb/public_html/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#24 {main} in /home3/ontnehbb/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[05-Apr-2023 18:21:16 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(759): Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home3/ontnehbb...', 4)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('fa')
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(269): Illuminate\Translation\FileLoader->load('fa', '*', '*')
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(114): Illuminate\Translation\Translator->load('*', '*', 'fa')
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(851): Illuminate\Translation\Translator->get('Server Error', Array, 'fa')
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(886): trans('Server Error', Array, NULL)
+#7 /home3/ontnehbb/public_html/storage/framework/views/31d76ce5cf028ae1dad55a755fcfa1d8604b82db.php(1): __('Server Error')
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/ontnehbb...')
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/ontnehbb...', Array)
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#16 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#23 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#24 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#25 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#26 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#27 {main}
+
+Next Illuminate\View\ViewException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. (View: /home3/ontnehbb/public_html/resources/views/errors/500.blade.php) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(RuntimeException), 0)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#17 {main}
+  thrown in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[05-Apr-2023 18:21:20 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(759): Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home3/ontnehbb...', 4)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('fa')
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(269): Illuminate\Translation\FileLoader->load('fa', '*', '*')
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(114): Illuminate\Translation\Translator->load('*', '*', 'fa')
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(851): Illuminate\Translation\Translator->get('Server Error', Array, 'fa')
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(886): trans('Server Error', Array, NULL)
+#7 /home3/ontnehbb/public_html/storage/framework/views/31d76ce5cf028ae1dad55a755fcfa1d8604b82db.php(1): __('Server Error')
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/ontnehbb...')
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/ontnehbb...', Array)
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#16 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#23 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#24 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#25 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#26 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#27 {main}
+
+Next Illuminate\View\ViewException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. (View: /home3/ontnehbb/public_html/resources/views/errors/500.blade.php) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(RuntimeException), 0)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#17 {main}
+  thrown in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[05-Apr-2023 18:21:38 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(759): Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home3/ontnehbb...', 4)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('fa')
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(269): Illuminate\Translation\FileLoader->load('fa', '*', '*')
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(114): Illuminate\Translation\Translator->load('*', '*', 'fa')
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(851): Illuminate\Translation\Translator->get('Server Error', Array, 'fa')
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(886): trans('Server Error', Array, NULL)
+#7 /home3/ontnehbb/public_html/storage/framework/views/31d76ce5cf028ae1dad55a755fcfa1d8604b82db.php(1): __('Server Error')
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/ontnehbb...')
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/ontnehbb...', Array)
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#16 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#23 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#24 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#25 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#26 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#27 {main}
+
+Next Illuminate\View\ViewException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. (View: /home3/ontnehbb/public_html/resources/views/errors/500.blade.php) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(RuntimeException), 0)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#17 {main}
+  thrown in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[05-Apr-2023 18:21:44 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(759): Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home3/ontnehbb...', 4)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('fa')
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(269): Illuminate\Translation\FileLoader->load('fa', '*', '*')
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(114): Illuminate\Translation\Translator->load('*', '*', 'fa')
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(851): Illuminate\Translation\Translator->get('Server Error', Array, 'fa')
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(886): trans('Server Error', Array, NULL)
+#7 /home3/ontnehbb/public_html/storage/framework/views/31d76ce5cf028ae1dad55a755fcfa1d8604b82db.php(1): __('Server Error')
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/ontnehbb...')
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/ontnehbb...', Array)
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#16 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#23 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#24 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#25 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#26 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#27 {main}
+
+Next Illuminate\View\ViewException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. (View: /home3/ontnehbb/public_html/resources/views/errors/500.blade.php) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(RuntimeException), 0)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#17 {main}
+  thrown in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[05-Apr-2023 18:21:46 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(759): Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home3/ontnehbb...', 4)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('fa')
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(269): Illuminate\Translation\FileLoader->load('fa', '*', '*')
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(114): Illuminate\Translation\Translator->load('*', '*', 'fa')
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(851): Illuminate\Translation\Translator->get('Server Error', Array, 'fa')
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(886): trans('Server Error', Array, NULL)
+#7 /home3/ontnehbb/public_html/storage/framework/views/31d76ce5cf028ae1dad55a755fcfa1d8604b82db.php(1): __('Server Error')
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/ontnehbb...')
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/ontnehbb...', Array)
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#16 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#23 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#24 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#25 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#26 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#27 {main}
+
+Next Illuminate\View\ViewException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. (View: /home3/ontnehbb/public_html/resources/views/errors/500.blade.php) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(RuntimeException), 0)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#17 {main}
+  thrown in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[05-Apr-2023 18:21:48 Asia/Tehran] PHP Fatal error:  Uncaught RuntimeException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php(759): Illuminate\Translation\FileLoader->Illuminate\Translation\{closure}(Array, '/home3/ontnehbb...', 4)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(152): Illuminate\Support\Collection->reduce(Object(Closure), Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php(63): Illuminate\Translation\FileLoader->loadJsonPaths('fa')
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(269): Illuminate\Translation\FileLoader->load('fa', '*', '*')
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/Translator.php(114): Illuminate\Translation\Translator->load('*', '*', 'fa')
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(851): Illuminate\Translation\Translator->get('Server Error', Array, 'fa')
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(886): trans('Server Error', Array, NULL)
+#7 /home3/ontnehbb/public_html/storage/framework/views/31d76ce5cf028ae1dad55a755fcfa1d8604b82db.php(1): __('Server Error')
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home3/ontnehbb...')
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home3/ontnehbb...', Array)
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#16 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#17 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#18 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#19 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#20 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#21 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#22 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#23 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#24 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#25 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#26 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#27 {main}
+
+Next Illuminate\View\ViewException: Translation file [/home3/ontnehbb/public_html/lang/fa.json] contains an invalid JSON structure. (View: /home3/ontnehbb/public_html/resources/views/errors/500.blade.php) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php:145
+Stack trace:
+#0 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(60): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(RuntimeException), 0)
+#1 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home3/ontnehbb...', Array)
+#2 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(139): Illuminate\View\Engines\CompilerEngine->get('/home3/ontnehbb...', Array)
+#3 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(122): Illuminate\View\View->getContents()
+#4 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#5 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(69): Illuminate\View\View->render()
+#6 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php(35): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(57): Illuminate\Http\Response->__construct(Object(Illuminate\View\View), 500, Array)
+#8 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(87): Illuminate\Routing\ResponseFactory->make(Object(Illuminate\View\View), 500, Array)
+#9 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(613): Illuminate\Routing\ResponseFactory->view('errors::500', Array, 500, Array)
+#10 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(538): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#11 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(444): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#12 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(364): Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#13 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(220): Illuminate\Foundation\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Spatie\LaravelIgnition\Exceptions\ViewException))
+#14 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(197): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Illuminate\View\ViewException))
+#15 /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Illuminate\View\ViewException))
+#16 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}(Object(Illuminate\View\ViewException))
+#17 {main}
+  thrown in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php on line 145
+[08-Apr-2023 12:07:53 Asia/Tehran] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/ontnehbb/public_html/app/Http/Controllers/User/TemplateController.php on line 152
+[08-Apr-2023 12:08:05 Asia/Tehran] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/ontnehbb/public_html/app/Http/Controllers/User/TemplateController.php on line 152
+[09-Apr-2023 18:25:24 Asia/Tehran] PHP Fatal error:  Allowed memory size of 293601280 bytes exhausted (tried to allocate 266342400 bytes) in /home3/ontnehbb/public_html/app/Services/ZarinPalService.php on line 297
+[09-Apr-2023 22:14:47 Asia/Tehran] PHP Fatal error:  Allowed memory size of 293601280 bytes exhausted (tried to allocate 199233536 bytes) in /home3/ontnehbb/public_html/app/Http/Controllers/Admin/FinanceSubscriptionPlanController.php on line 193
+[11-Apr-2023 12:44:52 Asia/Tehran] PHP Fatal error:  Allowed memory size of 293601280 bytes exhausted (tried to allocate 199233536 bytes) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php on line 334
+[11-Apr-2023 12:45:16 Asia/Tehran] PHP Fatal error:  Allowed memory size of 293601280 bytes exhausted (tried to allocate 199233536 bytes) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php on line 334
+[11-Apr-2023 12:47:06 Asia/Tehran] PHP Fatal error:  Allowed memory size of 293601280 bytes exhausted (tried to allocate 199233536 bytes) in /home3/ontnehbb/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php on line 334
