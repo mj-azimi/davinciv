@@ -1,7 +1,4 @@
-@extends('layouts.master')
-
-
-@section('content')
+<?php $__env->startSection('content'); ?>
     <div class="tab-content h-100 col-12 col-md-10 col-lg-11" id="v-pills-tabContent">
         <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
             ...
@@ -253,4 +250,6 @@
             });
         });
     </script>
-@endsection
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layouts.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/joorjin/Documents/hashemi/davinciv/resources/views/home.blade.php ENDPATH**/ ?>

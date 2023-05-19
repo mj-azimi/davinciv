@@ -48,3 +48,4 @@
 </body>
 
 </html>
+<?php /**PATH /home/joorjin/Documents/hashemi/davinciv/resources/views/layouts/footer.blade.php ENDPATH**/ ?>

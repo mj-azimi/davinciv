@@ -56,6 +56,7 @@ use App\Http\Controllers\User\UserSupportController;
 use App\Http\Controllers\User\UserNotificationController;
 use App\Http\Controllers\User\SearchController;
 use Illuminate\Support\Facades\Artisan;
+use Illuminate\Support\Facades\Session;
 
 /*
 |--------------------------------------------------------------------------
@@ -75,11 +76,10 @@ Route::middleware(['middleware' => 'PreventBackHistory'])->group(function () {
 
 // FRONTEND ROUTES
 Route::controller(HomeController::class)->group(function () {
+    // Session::put('locale', 'fa');
     Route::get('/', 'index');
-    Route::get('/blog/{slug}', 'blogShow')->name('blogs.show');
-    Route::post('/contact', 'contact')->name('contact');
-    Route::get('/terms-and-conditions', 'termsAndConditions')->name('terms');
-    Route::get('/privacy-policy', 'privacyPolicy')->name('privacy');
+    Route::get('/virtualNumber', 'virtualNumber')->name('virtualNumber');
+
 });
 
 // PAYMENT GATEWAY WEBHOOKS ROUTES
